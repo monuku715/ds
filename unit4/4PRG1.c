@@ -1,3 +1,7 @@
+*/1. Write a program to create a binary tree . Traverse tree in preorder ,
+postorder and inorder.
+NAME:-MONU KUMAR PATEL
+ENROLL:-92500527141*/
 #include<stdio.h>
 #include<stdlib.h>
 
